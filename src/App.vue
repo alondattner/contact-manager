@@ -14,7 +14,6 @@ export default {
 }
 </script>
 
-
 <style>
 @font-face {
   font-family: 'Roboto';
@@ -30,16 +29,13 @@ export default {
   color: #272727;
   padding: 1em;
 }
-
 h1, h2, h3 {
   font-family: 'Montserrat', Arial, sans-serif;
   margin: 0.2em 0 0.3em 0;
 }
-
 p {
   margin: 0 0 0.2em 0;
 }
-
 button {
   background-color: #0e6fc9;
   color: #fff;
@@ -52,28 +48,22 @@ button {
   box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.2);
   margin: 10px;
 }
-
 button:hover {
   background-color: #0b62b3;
   box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.3);
 }
-
 button.red {  
   background-color: #c72431;
 }
-
 button.red:hover {  
   background-color: #ab1520;
 }
-
 button.green {  
   background-color: #18ad40;
 }
-
 button.green:hover {  
   background-color: #0e8f31;
 }
-
 input {
   text-align: center;
   padding: 10px;
